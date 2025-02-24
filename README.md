@@ -11,7 +11,7 @@ https://github.com/PacktPublishing/Unreal-Engine-5-Game-Development-with-C-Scrip
 # 게임 개요
 제한 시간 내에 적들의 공격을 피해 여러 디펜스 타워 중 숨겨진 base 디펜스 타워를 파괴하면 승리하는 게임이다. 
 
-![{10320EBC-DD47-4F1A-9323-7EC7662ED550}](https://github.com/user-attachments/assets/9039f8c1-853d-416c-8066-abc0ac8c301b)
+<img src="https://github.com/user-attachments/assets/9039f8c1-853d-416c-8066-abc0ac8c301b" width="300">
 
 
 # 커스터마이징
