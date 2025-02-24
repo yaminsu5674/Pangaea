@@ -1,12 +1,16 @@
 # Pangaea
 'C++ 스크립트를 활용한 언리얼 엔진 5 게임 개발'라는 책을 공부하며 가이드를 그대로 구현해 낸 결과물이다.
+
 협업, 버전 관리 용도가 아니므로 프로젝트 자체가 아닌 내가 작성한 일부 소스코드만을 게시했다.
+
 참고한 책 내용의 깃허브 주소는 아래와 같다.
+
 https://github.com/PacktPublishing/Unreal-Engine-5-Game-Development-with-C-Scripting
 
 
 # 게임 개요
 제한 시간 내에 적들의 공격을 피해 여러 디펜스 타워 중 숨겨진 base 디펜스 타워를 파괴하면 승리하는 게임이다. 
+
 ![{10320EBC-DD47-4F1A-9323-7EC7662ED550}](https://github.com/user-attachments/assets/9039f8c1-853d-416c-8066-abc0ac8c301b)
 
 
